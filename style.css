@@ -35,3 +35,38 @@ html {
 body {
   font-family: Arial, Helvetica, sans-serif;
 }
+
+/* My CSS starts here*/
+/*pink backgorund*/
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color:  #e6ccb2;
+  color: #242121;
+  font-size: 1.2rem;
+  line-height: 1.6;
+}
+
+
+/* Pink Background - DONE*/
+main {
+  margin: 5rem 5rem;
+  padding: 1rem;
+}
+
+
+/*section.hero is the name for main section*/
+/* White Text Box */
+main section.hero {
+  padding: 3rem 1rem 1rem 1rem;
+  background-color: #f1faeeff;
+  border-radius: 1rem;
+}
+
+/*main text - perfect cappuccino*/
+main section.hero h1 {
+  padding: 0 3rem;
+  font-weight: 700;
+  font-size: 3rem;
+  letter-spacing: 0.3rem;
+  text-align: center;
+}
