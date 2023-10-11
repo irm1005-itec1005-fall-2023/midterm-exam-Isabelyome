@@ -41,7 +41,7 @@ body {
 body {
   font-family: Arial, Helvetica, sans-serif;
   background-color:  #e6ccb2;
-  color: #242121;
+  color: #211500;
   font-size: 1.2rem;
   line-height: 1.6;
 }
@@ -67,6 +67,8 @@ main section.hero h1 {
   padding: 0 3rem;
   font-weight: 700;
   font-size: 3rem;
-  letter-spacing: 0.3rem;
+  letter-spacing: 0.1rem;
   text-align: center;
 }
+
+image {border-radius: 400px;}
