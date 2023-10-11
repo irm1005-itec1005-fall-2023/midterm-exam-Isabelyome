@@ -69,6 +69,7 @@ main section.hero h1 {
   font-size: 2.5rem;
   letter-spacing: 0.1rem;
   text-align: center;
+  color: rgb(72, 39, 11);
 }
 
 /*paragraph*/
@@ -77,6 +78,7 @@ main section.hero p {
   font-weight: 100;
   font-size: 1rem;
   color: rgb(72, 39, 11);
+}
  
 
 /*price*/
@@ -86,5 +88,19 @@ main section.hero h2 {
   font-size: 2.5rem;
   letter-spacing: 0.1rem;
   text-align: left;
-  color: rgb(148, 104, 65);
+  color: rgb(115, 76, 42);
+}
+
+/*button styles*/
+main section.hero button {
+  padding: 0 3rem;
+  font-weight: 700;
+  font-size: 1 rem;
+  text-align: center;
+  color: rgb(67, 38, 12);
+}
+
+/*image*/
+main section.hero image {
+  height: 400px;
 }
